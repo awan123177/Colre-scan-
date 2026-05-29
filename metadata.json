@@ -1,0 +1,6 @@
+{
+  "name": "CalorieScan",
+  "description": "Scan meals using Gemini AI to instantly calculate calories and macronutrients, track daily goals, and manage your health journey in a beautiful interactive mobile interface.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
